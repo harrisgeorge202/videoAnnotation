@@ -1,6 +1,6 @@
 {
   "name": "react-video-annotations123",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,10 @@
   },
   "author": "Haris George <harrisgeorge202@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrisgeorge202/videoAnnotation.git"
+  },
   "keywords": [
     "react-component"
   ]
